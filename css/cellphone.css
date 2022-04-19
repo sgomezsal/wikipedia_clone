@@ -1,0 +1,80 @@
+header .logo-header picture img {
+    width: 13rem;
+    height: 2.3rem;
+}
+header .logo-header picture p {
+    font-size: 1.2rem;
+}
+main .contenedor-mundo .logo-central picture img {
+    height: 115px;
+    width: 130px;
+}
+main .contenedor-mundo a {
+    font-size: 1.2rem;
+}
+main .contenedor-mundo ul li p {
+    position: absolute;
+    opacity: 0;
+}
+.navegador input {
+    display: flex;
+    justify-content: center;
+    width: 75vw;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.seccion-inicial-footer {
+    width: 90vw;
+}
+.seccion-secundaria-footer {
+    width: 90vw;
+}
+.imagens-footer {
+    justify-content: space-around;
+    align-items: center;
+}
+.seccion-secundaria-footer .parrafo {
+    justify-content: initial;
+    align-items: initial;
+}
+.imagenes {
+    display: flex;
+    justify-content: space-around;
+}
+.ultimo-footer {
+    font-size: 1rem;
+    flex-wrap: wrap;
+}
+footer img {
+    width: 4rem;
+    height: 4rem;
+}
+.seccion-secundaria-footer a {
+    font-size: 1.1rem;
+}
+.seccion-seundaria-footer .imagenes img {
+    height: 2rem !important;
+}
+.ultimo-footer p {
+    text-align: center;
+}
+/* ULTIMOS CAMBIOS PODERSOS */
+main .contenedor-mundo ul li {
+    margin: 3rem 1rem;
+}
+.boxes {
+    width: 15rem;
+    margin: 0.2rem;
+    margin-right: 0.8rem;
+}
+.boxes img {
+    margin-left: 0rem;
+}
+.seccion-secundaria-footer .imagenes img {
+    width: 10rem;
+    height: 3.1rem;
+}
